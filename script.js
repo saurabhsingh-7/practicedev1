@@ -28,4 +28,5 @@ pt1[4].style.backgroundColor="red";
     var y;
 
     var z;
+    var m;
     
