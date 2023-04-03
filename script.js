@@ -25,4 +25,6 @@ pt1[4].style.backgroundColor="red";
     var h1=document.querySelector('header h1');
     container.insertBefore(newDiv,h1);
     var x;
+    var y;
+
     
